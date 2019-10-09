@@ -1,3 +1,4 @@
 # Load and Solar Power Forecasting in a Residential Distributed Energy System
-This repository contains the code for my CS 230: Deep Learning final project. The project is entitled Load and Solar Power Forecasting in a Residential Distributed Energy System.
-Unfortuantely, the data is not publicly available, but it is possible to download the code and experiment with it on your own. The data I initially use is sampled at a 1-minute rate, but I down sampled it to a 30-minute rate. Even though the data that I use is not publicly available, UCI provides some data (link: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption) that might need some preprocessing depending on your application.
+This repository contains the code for my CS 230: Deep Learning final project, and it has implementations of many deep learning and statistical models I experimented with. The final report for the project is also included.  
+
+Unfortuantely, the data is not publicly available, but it is possible to download the code and experiment with it on your own. However, UCI provides some data (link: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption) that might need some preprocessing depending on your application.
